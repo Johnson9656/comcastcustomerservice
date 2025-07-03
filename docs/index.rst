@@ -5,11 +5,11 @@ How to Reach Comcast Customer Service?
 
 Comcast Corporation, known for its cable television services, internet service, and telecommunication services, has become a leading name in the communications and entertainment industry. While the company is known for its expansive service offerings, the quality of its customer service has been a subject of both praise and critique. This guide will help you understand Comcast customer service in-depth, how to contact Comcast customer service, and the different avenues available for support.
 
-.. image:: service.gif
-   :alt: My Project Logo
-   :width: 400px
+.. image:: https://img.shields.io/badge/Service-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+   :width: 200px
    :align: center
    :target: https://getchatsupport.live/
+   :alt: Service Button
 
 
 Comcast offers a wide variety of services that cater to both residential and business customers. Their offerings include cable television, internet, phone, and home security services. One of the key elements that have shaped Comcast’s reputation is its customer service, which provides support for installation, technical troubleshooting, billing inquiries, and service upgrades or downgrades.
